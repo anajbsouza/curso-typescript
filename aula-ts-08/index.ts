@@ -26,3 +26,5 @@ function play(game: Game){
     // runs the game
     console.log(game);
 }
+
+play(game);
